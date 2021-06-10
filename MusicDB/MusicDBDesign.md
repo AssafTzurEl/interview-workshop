@@ -146,6 +146,13 @@ Since a song may be published in multiple albums and an album contains many song
 Artists can be singers, bands, orchestras, composers. etc. We can use a string for artist type, but if we have a closed list of types, we can use `enum` (never use an `enum` for a modifiable list of items, or you'll violate the sacred [open/closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)!).
 
 ```C++
+enum class ArtistType
+{
+    Singer,
+    Band,
+    Composer
+};
+
 class Artist
 {
 public:
