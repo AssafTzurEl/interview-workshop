@@ -1,4 +1,4 @@
-# interview-workshop
+# Interview Workshop
 
 Exercises, solutions, and other resources for an interview workshop I teach on demand.
 
