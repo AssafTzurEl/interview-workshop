@@ -20,4 +20,8 @@ A C++ question involving strings and permutations.
 
 ## [ReverseEngineering](ReverseEngineering/README.md)
 
-Try to understand obfuscated C/C++ code.
+Understand obfuscated C/C++ code.
+
+## [StringlyTyped](StringlyTyped/README.md)
+
+Translate numbers to strings in various bases using C++.
